@@ -1,0 +1,1 @@
+from ..school_2.b import StudentB
