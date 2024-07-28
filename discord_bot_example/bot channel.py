@@ -1,5 +1,3 @@
-from typing import Literal
-
 import discord
 from discord.ext import commands
 
